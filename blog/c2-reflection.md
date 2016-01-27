@@ -1,0 +1,3 @@
+This week, one thing I did well and hope to improve upon is using slack and my fellow classmates as a resource. They really helped me a few times when I was in a bind. The google hangout checkin was nice as well and it helped me become more comfortable with my classmates.
+
+One thing I could have done to improve is manage my time better. I started on the assignments a little later in the week and am finding myself cramming to finish. I am having to put off getting fancy with my website until after I complete this sprint.

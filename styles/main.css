@@ -1,0 +1,29 @@
+.motto {
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+  
+  margin-top: 5%;
+}
+
+.header {
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
+
+header{ background: url(../images/sasunrise.JPG) center center no-repeat; min-height: 100vh;}
+
+.Portfolio{
+  margin-right: 20px;
+}
+
+/*.About {
+  width: 300px;
+  padding:25px;
+  border: 25px;
+  margin: 25px;
+}
+
+*{outline: 1px solid red !important;}
+
